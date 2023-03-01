@@ -315,7 +315,7 @@
                             }
                         ],
                         "use": "official",
-                        "text": "田辺　次郎",
+                        "text": "田辺 次郎",
                         "family": "田辺",
                         "given": [
                             "次郎"
@@ -329,7 +329,7 @@
                             }
                         ],
                         "use": "official",
-                        "text": "タナベ　ジロウ",
+                        "text": "タナベ ジロウ",
                         "family": "タナベ",
                         "given": [
                             "ジロウ"
@@ -376,7 +376,7 @@
                             }
                         ],
                         "use": "official",
-                        "text": "大森　幸太郎",
+                        "text": "大森 幸太郎",
                         "family": "大森",
                         "given": [
                             "幸太郎"
@@ -390,7 +390,7 @@
                             }
                         ],
                         "use": "official",
-                        "text": "オオモリ　コウタロウ",
+                        "text": "オオモリ コウタロウ",
                         "family": "オオモリ",
                         "given": [
                             "コウタロウ"
@@ -587,7 +587,7 @@
                 },
                 "subject": {
                     "reference": "urn:uuid:2b848b5a-b7d7-11ed-93b4-0242ac130002",
-                    "display": "田辺　次郎",
+                    "display": "田辺 次郎",
                     "type": "Patient"
                 },
                 "encounter": {
